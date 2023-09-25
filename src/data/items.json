@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Camera",
+      "price": 92.99,
+      "imgUrl": "/assets/camera-lens.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1199.99,
+      "imgUrl": "/assets/laptop.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Iphone",
+        "price": 999.99,
+        "imgUrl": "/assets/iphone.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Leather Coat",
+        "price": 299.99,
+        "imgUrl": "/assets/leather-coat.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Kurta",
+        "price": 89.99,
+        "imgUrl": "/assets/kurta.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Shoes",
+        "price": 99.99,
+        "imgUrl": "/assets/shoes.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Telephone",
+        "price": 69.99,
+        "imgUrl": "/assets/stdtelephone.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Car",
+        "price": 2999.99,
+        "imgUrl": "/assets/car.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Strawberry",
+        "price": 6.99,
+        "imgUrl": "/assets/strawberry.jpg"
+      },{
+        "id": 10,
+        "name": "T-shirt",
+        "price": 49.99,
+        "imgUrl": "/assets/t-shirt.jpg"
+      }
+    
+  ]
